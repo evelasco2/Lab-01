@@ -1,2 +1,2 @@
 # Lab-01
-This is my first repo.
+Lab 1 for the Fundamentals of Web Development (ITMD 361) course.
